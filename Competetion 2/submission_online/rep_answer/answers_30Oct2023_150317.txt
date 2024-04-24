@@ -1,0 +1,14 @@
+instance-14-3.inst: score: 2.3058823529411767
+instance-15-1.inst: score: 2.4444444444444446
+instance-16-1.inst: score: 2.2
+instance-18-1.inst: score: 1.7666666666666666
+instance-2-1.inst: score: 2.6666666666666665
+instance-5-1.inst: score: 1.7823529411764707
+instance-5-2.inst: score: 2.0647058823529414
+instance-5-3.inst: score: 1.8058823529411765
+instance-6-1.inst: score: 2.2476190476190476
+instance-6-9.inst: score: 1.8142857142857143
+instance_1-2slow-2.inst: score: 2.7
+instance_1.inst: score: 2.3333333333333335
+instance_2-2slow-1.inst: score: 2.6666666666666665
+Résultat moyen des ratios:2.2152696976226385
