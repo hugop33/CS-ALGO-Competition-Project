@@ -1,0 +1,10 @@
+instance-10-1.inst: score: 1.2
+instance-10-3.inst: score: 1.2
+instance-11-1.inst: score: 1.3076923076923077
+instance-11-3.inst: score: 1.2307692307692308
+instance-11-5.inst: score: 1.1538461538461537
+instance-12-1.inst: score: 1.27
+instance-13-1-1.inst: score: 1.1
+instance-13-1-2.inst: score: 1.15
+instance-13-2-1.inst: score: 1.25
+instance-13-2-3.inst: score: 1.25
